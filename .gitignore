@@ -1,0 +1,26 @@
+# Generated files
+day*/target/
+
+# Cargo.lock file
+Cargo.lock
+
+# Compiled Rust code
+**/*.rs.bk
+
+# Rust tools
+.rustc_info.json
+
+# Doc build output
+/target/doc/
+
+# IDE files (Visual Studio Code, IntelliJ, etc.)
+.idea/
+.vscode/
+
+# Editor-specific files
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
